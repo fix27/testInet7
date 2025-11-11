@@ -1,0 +1,5 @@
+{
+  "name": "Bash Script Runner GUI",
+  "description": "An interactive web-based GUI that simulates the execution of a provided network testing bash script, allowing users to visualize each step and its output in a terminal-like interface.",
+  "requestFramePermissions": []
+}

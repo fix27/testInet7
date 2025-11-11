@@ -1,0 +1,42 @@
+export const IPERF_SERVERS: string[] = [
+    "bouygues.iperf.fr:9127",
+    "bouygues.iperf.fr:9222",
+    "speedtest.serverius.net:5002",
+    "iperf.eenet.ee",
+    "iperf.it-north.net:5205",
+    "iperf.biznetnetworks.com:5201",
+    "iperf.scottlinux.com:5201",
+    "iperf.he.net:5201",
+    "rrru.ru"
+];
+
+export const WGET_URLS: string[] = [
+    "https://cache-mskm905.cdn.yandex.net/internetometr.download.cdn.yandex.net/bigfile.png?1111111111111",
+    "http://speedtest.tele2.net/100MB.zip",
+    "http://speedtest6.tele2.net/100MB.zip",
+    "https://speedtest.serverius.net/files/100mb.bin",
+    "http://ipv4.download.thinkbroadband.com/100MB.zip",
+    "http://ipv6.download.thinkbroadband.com/100MB.zip",
+    "http://download.thinkbroadband.com/100MB.zip",
+    "http://speedtest-ny.turnkeyinternet.net/100mb.bin",
+    "http://speedtest.ftp.otenet.gr/files/test100Mb.db",
+    "http://ovh.net/files/100Mio.dat",
+    "http://speedcheck.cdn.on.net/100meg.test",
+    "http://mirror.filearena.net/pub/speed/SpeedTest_64MB.dat?_ga=2.34952033.1572673891.1586208526-1150274045.1586208526",
+    "http://212.183.159.230/100MB.zip",
+    "http://speedtest.belwue.net/100M",
+    "http://speedtest-sgp1.digitalocean.com/100mb.test",
+    "http://speedtest.as5577.net/100mb.bin",
+    "http://speedtest.sea01.softlayer.com/downloads/test100.zip",
+    "https://fastest.fish/lib/downloads/100MB.bin",
+    "https://speedtest.selectel.ru/100MB",
+    "https://yandex.ru/internet/",
+    "https://cache-mskstoredata03.cdn.yandex.net/internetometr.download.cdn.yandex.net/bigfile.png?1586248555096",
+    "http://ip.mail.ru/",
+    "http://ip.mail.ru/files/2mb.png?rnd=0.34026986463155295&t=&_=1586248874132",
+    "http://speedtest.newark.linode.com/100MB-newark.bin",
+    "http://speedtest-blr1.digitalocean.com/10mb.test",
+    "https://mc.yandex.ru/pixel/4436647312949346741?rnd=0.5",
+    "https://yadi.sk/i/DPZVlvZQHarJBg",
+    "https://rrru.ru/"
+];
